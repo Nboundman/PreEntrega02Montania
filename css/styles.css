@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+* {
+  margin: 10px;
+}
+
+#header {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.cssheader {
+  position: relative;
+  left: 85px;
+  color: white;
+}
+
+.header2 {
+  background-color: white;
+}
+.cssheader2 {
+  color: black;
+}
+#cssmain {
+  background-color: black;
+ width: 100%;
+height: 100%;
+}
+.cssh3 {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+#variosmodelos {
+  display: flex;
+}
+.css1 {
+  color: white;
+}
+
+/**/
+.css3 {
+  color: white;
+}
+
+#css3footer {
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+hr {
+  border-top: 2px solid orange !important;
+}
+
+.div-cotizar {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.error-prendas {
+  padding: 20px;
+  text-align: center;
+  background-color: orangered;
+  color: whitesmoke;
+  border-radius: 12px;
+}
+
+button.button.button-outline {
+  font-size: x-large !important;
+}
+
+button.button.button-outline:active {
+  background: pink !important;
+}
